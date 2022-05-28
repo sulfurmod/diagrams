@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T06:49:52.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="M8WTO_JwzmU3nWiPok-k" type="github"><diagram id="dI0HfCBkEovRcavdCR4y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:31:09.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ZRRNsMPFtBpHHKkxb_fj" version="18.1.1" type="github">
+  <diagram id="dI0HfCBkEovRcavdCR4y" name="Page-1">
+    <mxGraphModel dx="2062" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-1" value="Pak" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="348" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-2" value="Mesh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="2" y="30" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-3" value="Material&lt;br&gt;Instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="89" y="30" width="81" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-4" value="Texture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="182" y="30" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-5" value="Animation Sequence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="2" y="100" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-6" value="Animation Blueprint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="92" y="100" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-7" value="Skeleton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="182" y="100" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-8" value="Physical Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="270" y="30" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-9" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g1lmMS_3pFmgoOSfA5C6-1">
+          <mxGeometry x="270" y="100" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-10" value="皮肤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="354" width="72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-11" value="Mod游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="354" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-12" value="表情包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="354" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1lmMS_3pFmgoOSfA5C6-13" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="354" width="61" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
